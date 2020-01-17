@@ -6,7 +6,7 @@
 
 An application that will run in the browser and feature dynamically updated HTML and CSS powered by JQuery. Application features polished UI and is responsive, ensuring adaptation to multiple screen sizes.
 
-[Week Day Scheduler](https://comp7589.github.io/HW-4---Quiz-Game/)
+[Week Day Scheduler](https://comp7589.github.io/WorkDayScheduler/)
 
 ## Usage
 
